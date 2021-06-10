@@ -26,7 +26,7 @@ A JetBrains plugin that provides shortcuts to open a code snippet in GitHub, Bit
   
 - Manually:
   
-  Download the [latest release](https://github.com/codelingo/codelingo-jetbrains/releases/latest) and install it manually using
+  Download the [latest release](https://github.com/codelingo/notebooks-jetbrains-plugin/releases/latest) and install it manually using
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
 
 
